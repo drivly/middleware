@@ -1,5 +1,14 @@
-# middleware
+# Middleware
 Edge Middleware Library for Hono and Itty Router
+
+- Request metadata enrichment
+- JWT Authentication
+- API Key Authentication
+- OAuth & Social Login
+- Rate Limiting
+- Crash Reporting
+- Logging
+- Performance Measurement
 
 The pattern for Hono Middleware is:
 
