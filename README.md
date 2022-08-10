@@ -1,4 +1,4 @@
-# Middleware
+# Edge Middleware
 Edge Middleware Library for Hono and Itty Router
 
 - Request metadata enrichment
