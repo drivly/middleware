@@ -7,6 +7,7 @@ Edge Middleware Library for Hono and Itty Router
 - OAuth & Social Login
 - Rate Limiting
 - Crash Reporting
+- CORS
 - Logging
 - Analytics
 - Performance Measurement
