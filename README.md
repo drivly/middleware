@@ -8,6 +8,7 @@ Edge Middleware Library for Hono and Itty Router
 - Rate Limiting
 - Crash Reporting
 - Logging
+- Analytics
 - Performance Measurement
 
 The pattern for Hono Middleware is:
